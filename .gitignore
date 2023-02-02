@@ -9,8 +9,8 @@ ehthumbs.db
 Thumbs.db
 
 # other files
-data/loan-data-2007-2014.csv
-data/loan-data-2007-2014-preprocessed.csv
+
 
 # dirs
 .ipynb_checkpoints/*
+data/*
