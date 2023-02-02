@@ -15,3 +15,4 @@ Thumbs.db
 .ipynb_checkpoints/*
 pd/data_preparation/.ipynb_checkpoints/*
 data/*
+data/.ipynb_checkpoints/*
