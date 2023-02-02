@@ -10,7 +10,7 @@ Thumbs.db
 
 # other files
 
-
 # dirs
 .ipynb_checkpoints/*
+pd/data_preparation/.ipynb_checkpoints/*
 data/*
