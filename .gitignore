@@ -4,6 +4,6 @@
 data
 
 # files
-.csv
-.npy
-.npz
+*.csv
+*.npy
+*.npz
