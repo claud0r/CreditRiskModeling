@@ -1,20 +1,10 @@
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-.ipynb_checkpoints
-
-# other files
-
 # dirs
-.ipynb_checkpoints/*
-pd/data_preparation/.ipynb_checkpoints/*
+.ipynb_checkpoints
 !data/data_exploration.ipynb
-data/*
-data/.ipynb_checkpoints/*
+data
 pd/model_application/
+
+# files
+.csv
+.npy
+.npz
