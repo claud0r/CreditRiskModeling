@@ -2,7 +2,6 @@
 .ipynb_checkpoints
 !data/data_exploration.ipynb
 data
-pd/model_application/
 
 # files
 .csv
