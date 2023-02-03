@@ -14,5 +14,7 @@ Thumbs.db
 # dirs
 .ipynb_checkpoints/*
 pd/data_preparation/.ipynb_checkpoints/*
+!data/data_exploration.ipynb
 data/*
 data/.ipynb_checkpoints/*
+pd/model_application/
